@@ -1,0 +1,7 @@
+---
+layout: slide
+title: "Mobile Ads "
+---
+* Any form of ads that appear on mobile devices
+* Paid search, display ads, messaging
+* Geo-location targeting and owners movement
