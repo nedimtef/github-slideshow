@@ -1,7 +1,7 @@
 ---
 layout: slide
-title: "Display Advertising "
+title: "Textual and Contextual Advertising "
 ---
-* Display advertising - ads that take place on digital websites
-* Includes different types of formats and items such as text, images, flash, video, and audio.
-* Types of ads - Video ads, Rich media ads, Overlays, and insterstitials 
+* Text-based ads - ads using text-based hyperlinks
+* Paid search ads - search engines allow advertisers to show ads on results
+* Contextual ads - targeting advertising that appear on different medias
